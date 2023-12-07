@@ -11,7 +11,7 @@ En primer lugar, le indicamos al programa que en la lectura del .csv utilice la 
 
 Luego utilizamos las herramientas de python para poder tener un pantallazo de los datos, y ver que variables (expresadas en las columnas) nos interesaban y cuales no. Una vez realizado esto, procedimos a eliminar algunas columnas y a cambiarle el nombre a otras. 
 
-Otra de las cosas que se hizo, fue reemplazar el dato "\\\N" (que se asigna cuando cuando un corredor no termina la carrera) por el número 21. De esta forma, la variable y columna *"position_final"* (correspondiente a la posición final en la carrera) queda como una varibale enteramente númerica, facilitando el análisis posterior. 
+Otra de las cosas que se hizo, fue reemplazar el dato "\\\N" (que se asigna cuando cuando un corredor no termina la carrera) por el número 21, asignandole la "última posición" a aquellos que no terminaron. De esta forma, la variable y columna *"position_final"* (correspondiente a la posición final en la carrera) queda como una varibale enteramente númerica, facilitando el análisis posterior. 
 
 Por otro lado, para facilitar el analisis de los datos, procedimos a filtrar el dataset original y crear dos matrices de datos, cada una correspondiente a los corredores mencionados previamente. Donde *"datos_corredor1"* correspondía a Hamilton, y *"datos_corredor2"* a Verstappen. 
 
