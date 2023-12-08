@@ -57,7 +57,7 @@ Esto nos indica que 11 veces hamilton y 9 veces verstappen encontraron un muy bu
 Mientras que Verstappen 3 veces le sucedio terminando segundo y 6 veces con el primer puesto, mismos porcentajes pero al reves que hamilton, es decir que Verstappen en la busqueda de este "equilibrio" encontro mas veces el mejor(6 contra tres) aunque hamilton lo alcanzo mas veces(11 a 9). 
 
 Continuando con este anilisis, el mejorar la posicion de clasificacion significa que el corredor no pudo encontrar un buen equilibrio, por lo que opto por sacrificar la clasificacion y obtener un mejor ritmo de carrera.
-En este caso 
+En este caso, observando el grafico "Resultados por carrera" vemos que en dos ocasiones ambos pilotos clasificaron bien pero tuvieron muy pobre desempeño en las carreras(Azerbaijan e Italia) y 3 veces cambiaron la posicion entre ellos(bahrain, Mexico y Brazil), . Creemos que estas 3 carreras y la carrera final, requiere un analisis especifico para entender que sucedio particularmente en cada una y entender por que si habian clasificado mejor terminaron peor
 
 
 
