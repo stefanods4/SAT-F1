@@ -65,7 +65,7 @@ Observando el siguiente grafico que compara el tiempo promedio de PitStop de est
 
 ![image](https://github.com/stefanods4/SAT-F1/assets/153237227/923d8859-db1e-42fe-b376-88d0f1909905)
 
-En este Grafico podemos ver como si bien el tiempo medio de las paradas de ambos es similar, Verstappen tiene menor amplitud y mayor cantidad de tiempos menores. Existe una diferencia de 3 un segundos entre el limite superior de Verstappen y el de Hamilton, una diferencia enorme en un entorno tan competitivo como este 
+En este Grafico podemos ver como si bien el tiempo medio de las paradas de ambos es similar, Hamilton tiene mas variabilidad, Mientras que Verstappen fue mas regular a lo largo de toda la temporada con tiempos menores. Existe una diferencia de 3 un segundos entre el limite superior de Verstappen y el de Hamilton, una diferencia enorme en un entorno tan competitivo como este 
 
 Continuando con el analisis de como los equipos y pilotos configuran los autos(set up) para cada carrera.
 antes de los analisis hay que aclarar un concepto: "Stint" se le dice a un periodo de vueltas en una carrera en que se uso un mismo juego de ruedas ya que estas se cambian segun el desgaste.
