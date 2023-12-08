@@ -26,11 +26,11 @@ Por otro lado, para facilitar el analisis de los datos, procedimos a filtrar el 
 
 ### Análisis
 
-Primero se analizo el campeonato anual, luego de cada carrera se otorgan puntos debido a la posicion final obtenida y se suman. Al final el piloto con mas puntos gana el campeonato.
+Primero se analizo el campeonato anual, luego de cada carrera se otorgan puntos debido a la posicion final obtenida y se suman. Al final el piloto con más puntos gana el campeonato.
 
 ![image](https://github.com/stefanods4/SAT-F1/assets/153237227/ff4f2eb2-c6fb-46aa-9b2d-f5f52482104b)
 
-En este grafico se puede observar la gran paridad entre ambos pilotos a lo largo de toda la temporada. En los ultimos anos, el piloto campeon se consagra con falta de 4 o 5 carreras para terminar la temporada, es decir que una temporada asi de peleada no es algo comun y mucho menos, que la pelea vaya hasta la ultima carrera. Donde se puede observar en el grafico que ambos pilotos se encontraban empatados antes de la misma.
+En este grafico se puede observar la gran paridad entre ambos pilotos a lo largo de toda la temporada. En los ultimos años, el piloto campeon se consagra con falta de 4 o 5 carreras para terminar la temporada, es decir que una temporada asi de peleada no es algo común y mucho menos, que la pelea vaya hasta la ultima carrera. Donde se puede observar en el grafico que ambos pilotos se encontraban empatados antes de la misma.
 
 Luego analizamos los resultados carrera a carrera
 
