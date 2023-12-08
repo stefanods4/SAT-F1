@@ -36,7 +36,7 @@ Luego analizamos los resultados carrera a carrera
 
 ![image](https://github.com/stefanods4/SAT-F1/assets/153237227/35f1cde1-9b2a-4303-9892-d43a2a8e9957)
 
-En este, no se encuentran grandes diferencias, ambos pilotos pelearon el primer y segundo puesto en 14 de las 21 carreras del año, mostrando claramente la diferencia con el resto de los pilotos y que tan reñida fue la competencia entre estos dos. Lo que si podemos agregar, es que Verstappen la mayoría de las veces en las que se desvío de la posición 1/2, fue cuando no terminó la carrera por problemas técnicos. No así Hamilton quien sufrió menos problemas técnicos, pero fue menos regular en la estrategia y en el manejo. 
+En este, no se encuentran grandes diferencias, ambos pilotos pelearon el primer y segundo puesto en 14 de las 21 carreras del año, mostrando claramente la diferencia con el resto de los pilotos y que tan reñida fue la competencia entre estos dos. Lo que si podemos agregar, es que Verstappen la mayoría de las veces en las que se desvío de la posición 1-2, fue cuando no terminó la carrera por problemas técnicos. No así Hamilton quien sufrió menos problemas técnicos, pero fue menos regular en la estrategia y en el manejo. 
 
 Siguiendo, decidimos hacer una comparacion que nos parecio de vital importancia: la posicion de clasificacion vs la posicion final de carrera.
 
