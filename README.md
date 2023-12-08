@@ -60,8 +60,15 @@ Mientras que Verstappen 3 veces le sucedio terminando segundo y 6 veces con el p
 Continuando con este anilisis, el mejorar la posicion de clasificacion significa que el corredor no pudo encontrar un buen equilibrio, por lo que opto por sacrificar la clasificacion y obtener un mejor ritmo de carrera.
 En este caso, observando el grafico "Resultados por carrera" vemos que en dos ocasiones ambos pilotos clasificaron bien pero tuvieron muy pobre desempeño en las carreras(Azerbaijan e Italia) y 3 veces cambiaron la posicion entre ellos(bahrain, Mexico y Brazil), . Creemos que estas 3 carreras y la carrera final, requiere un analisis especifico para entender que sucedio particularmente en cada una y entender por que si habian clasificado mejor terminaron peor
 
-Antes de los analisis hay que aclarar algunos conceptos
-"Stint" se le dice a un periodo de vueltas en una carrera en que se uso un mismo juego de ruedas ya que estas se cambian  segun el desgaste.
+Otro analisis a tener en cuenta es sobre una de las pocas variables que los equipos pueden controlar y no dependen casi exclusivamente de los pilotos, los PitStops, durante una carrera los corredores entran al "pitlane" para cambiar neumaticos desgastados o arreglar el auto debido a daños. Estas paradas se deben hacer en el menor tiempo posible ya que son consideradas perdidas de tiempo aunque sean necesarias, y se busca realizarlas de la manera mas eficiente posible. Un segundo mas en una parada puede hacer que un piloto pierda una carrera
+Observando el siguiente grafico que compara el tiempo promedio de PitStop de estos dos pilotos: 
+
+![image](https://github.com/stefanods4/SAT-F1/assets/153237227/923d8859-db1e-42fe-b376-88d0f1909905)
+
+En este Grafico podemos ver como si bien el tiempo medio de las paradas de ambos es similar, Verstappen tiene menor amplitud y mayor cantidad de tiempos menores. Existe una diferencia de 3 un segundos entre el limite superior de Verstappen y el de Hamilton, una diferencia enorme en un entorno tan competitivo como este 
+
+Continuando con el analisis de como los equipos y pilotos configuran los autos(set up) para cada carrera.
+antes de los analisis hay que aclarar un concepto: "Stint" se le dice a un periodo de vueltas en una carrera en que se uso un mismo juego de ruedas ya que estas se cambian segun el desgaste.
 
 Analisis carrera bahrein
 
@@ -148,5 +155,5 @@ En este escenario, Hamilton con ruedas de 20 vueltas, no podía competir contra 
 ### Conclusion
 
 Durante todo el analisis pudimos observar el alto nivel de variabilidad que existe en este deporte, muchas variables a controlar, muchas que no se pueden controlar y pueden ocasionar perder tiempo, vueltas, una carrera o hasta incluso un campeonato.
-Como demostramos, constantemente los equipos y corredores de F1 buscan el equilibrio optimo entre el mejor tiempo de clasificacion  y el mejor ritmo de carrera. Un muy buen tiempo de clasificacion puede condenar una carrera como sucedio para Hamilton en Mexico y para Verstappen en Brasil. Tambien un tiempo medio en la clasificacion, puede permitir tener un auto mas eficaz con un ritmo de carrera que arrolle con los competidores. Y ademas demostramos como las variables que no se pueden controlar, terminan arruinando una carrera que hasta el momento habia sido excelente para Hamilton, ocasionando que pierda el campeonato. 
-Pudimos ver como en un torno tan competitivo y tecnologico, no existe otro deporte en el mundo donde se invierta en tecnologia como en este, esto ocasiona una gran mezcla entre lo matematico con el azar del deporte. Y los equipos deben trabajar con esto, buscando aumentar las probabilidades de ganar en un deporte lleno de incertidumbres.
+Como demostramos, constantemente los equipos y corredores de F1 buscan mejorar en las variables que pueden controlar, como en los Tiempos de PitStop, y disminuir el efecto negativo que pueden tener aquellas que no se pueden controlar. Buscando el equilibrio optimo entre el mejor tiempo de clasificacion  y el mejor ritmo de carrera. Un muy buen tiempo de clasificacion puede condenar una carrera como sucedio para Hamilton en Mexico y para Verstappen en Brasil. Tambien un tiempo medio en la clasificacion, puede permitir tener un auto mas eficaz con un ritmo de carrera que arrolle con los competidores. Y ademas demostramos como las variables que no se pueden controlar, terminan arruinando una carrera que hasta el momento habia sido excelente para Hamilton, de tal manera que todos lo planeado para que cuando algo falle, falle de manera segura, deja de funcionar, ocasionando que se pierda el campeonato.
+Para concluir ver como en un torno tan competitivo y tecnologico, no existe otro deporte en el mundo donde se invierta en tecnologia como en este, existe una gran mezcla entre lo matematico con el azar del deporte. Y los equipos deben trabajar con esto, buscando aumentar las probabilidades de ganar, pero sin olvidarse que sigue siendo un deporte, y confiar siempre en estadisticas puede ocasionar sesgos que pueden costar muy caro.
