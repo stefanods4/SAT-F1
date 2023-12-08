@@ -26,7 +26,7 @@ Por otro lado, para facilitar el analisis de los datos, procedimos a filtrar el 
 
 ### Análisis
 
-Primero se analizo el campeonato anual, luego de cada carrera se otorgan puntos debido a la posicion final obteniday se suman. Al final el piloto con mas puntos gana el campeonato.
+Primero se analizo el campeonato anual, luego de cada carrera se otorgan puntos debido a la posicion final obtenida y se suman. Al final el piloto con mas puntos gana el campeonato.
 
 ![image](https://github.com/stefanods4/SAT-F1/assets/153237227/ff4f2eb2-c6fb-46aa-9b2d-f5f52482104b)
 
