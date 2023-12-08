@@ -77,15 +77,12 @@ La diferencia que le permitio ganar a hamilton reside en la estrategia de carrer
 
 https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C34:L7
 
-
 Durante toda la carrera se observa que los tiempos de vuelta de Verstappen son mejores con ruedas de el mismo tiempo de uso. Debido a esto, Hamilton decide parar primero a cambiar ruedas, en la vuelta 13. y luego comienza a marcar menores tiempos que verstappen con ruedas ya muy gastadas. Verstappen cambia ruedas 5 vueltas después, pero con la ventaja obtenida por Hamilton este lo pasa mientras Verstappen esta parado. 
 Luego Verstappen con su mejor tiempo de vuelta lo alcanza en la vuelta 28 y lo pasa. En la vuelta siguiente Hamilton decide cambiar ruedas de nuevo. En este Stint, Hamilton baja sus tiempos respecto al juego de gomas anterior casi 1 segundo 94.2 segundos por vuelta aproximadamente. Mientras que verstappen comienza a aumentar sus tiempos de vuelta casi igualando a los de Hamilton antes de parar.
 Es decir, se repite lo sucedido anteriormente, Hamilton gira con tiempos menores a verstappen hasta que este para y cambia ruedas en la vuelta 40.
 En esta ultima etapa, Hamilton mantiene su ritmo de 94.2 segundos aproximadamente hasta el final de la carrera. Mientras que verstappen, si bien conduciendo muy rápido también tiene tiempos muy irregulares, oscilando sus tiempos de vuelta entre 93.2 y 94 segundos. Esto indica el claro ‘’nerviosismo’’ del corredor por alcanzar a hamilton.  Pero sin lograr pasarlo., permitiendo asi que Hamilton gane la carrera.
 En resumen, Verstappen al haber clasificado primero, claramente tenia un auto capaz de girar más rápido pero que gastaría más las ruedas. Durante la carrera este corredor prefirió hacer stints mas largos que su rival, disminuyendo ampliamente su tiempo de vuelta el cual era su principal ventaja en la carrera. Asi permitiendo que su rival lo pase.
 Gracias al gran ritmo de carrera(capacidad de mantener un tiempo bajo por vuelta por la mayor cantidad de vueltas posibles) de Hamilton en el ultimo stint, Verstappen no lo pudo alcanzar. Permitiendo asi que gane la carrera
-
-
 
 
 
