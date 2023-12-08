@@ -73,9 +73,9 @@ que Hamilton tiene un tiempo promedio de vuelta menor pero la amplitud es muy si
 Verstappen un poco mayor 
 
 En esta carrera Hamilton clasifico segundo mientras que Verstappen primero.
-La diferencia que le permitio ganar a hamilton reside en la estrategia de carrera. Observando los tiempos en la siguiente tabla:
+La diferencia que le permitio ganar a hamilton reside en la estrategia de carrera.Observando los tiempos por vuelta de ambos corredores en la siguiente tabla podemos hacer un analisis mayor:
 
-https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C34:L7
+https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C38:L4
 
 Durante toda la carrera se observa que los tiempos de vuelta de Verstappen son mejores con ruedas de el mismo tiempo de uso. Debido a esto, Hamilton decide parar primero a cambiar ruedas, en la vuelta 13. y luego comienza a marcar menores tiempos que verstappen con ruedas ya muy gastadas. Verstappen cambia ruedas 5 vueltas después, pero con la ventaja obtenida por Hamilton este lo pasa mientras Verstappen esta parado. 
 Luego Verstappen con su mejor tiempo de vuelta lo alcanza en la vuelta 28 y lo pasa. En la vuelta siguiente Hamilton decide cambiar ruedas de nuevo. En este Stint, Hamilton baja sus tiempos respecto al juego de gomas anterior casi 1 segundo 94.2 segundos por vuelta aproximadamente. Mientras que verstappen comienza a aumentar sus tiempos de vuelta casi igualando a los de Hamilton antes de parar.
@@ -83,9 +83,6 @@ Es decir, se repite lo sucedido anteriormente, Hamilton gira con tiempos menores
 En esta ultima etapa, Hamilton mantiene su ritmo de 94.2 segundos aproximadamente hasta el final de la carrera. Mientras que verstappen, si bien conduciendo muy rápido también tiene tiempos muy irregulares, oscilando sus tiempos de vuelta entre 93.2 y 94 segundos. Esto indica el claro ‘’nerviosismo’’ del corredor por alcanzar a hamilton.  Pero sin lograr pasarlo., permitiendo asi que Hamilton gane la carrera.
 En resumen, Verstappen al haber clasificado primero, claramente tenia un auto capaz de girar más rápido pero que gastaría más las ruedas. Durante la carrera este corredor prefirió hacer stints mas largos que su rival, disminuyendo ampliamente su tiempo de vuelta el cual era su principal ventaja en la carrera. Asi permitiendo que su rival lo pase.
 Gracias al gran ritmo de carrera(capacidad de mantener un tiempo bajo por vuelta por la mayor cantidad de vueltas posibles) de Hamilton en el ultimo stint, Verstappen no lo pudo alcanzar. Permitiendo asi que gane la carrera
-
-
-
 
 Analisis carrera Brasil:
 
@@ -95,7 +92,7 @@ Se puede observar en el Boxplot
 
 Se observa un tiempo de vuelta promedio muy similar, aunque la media de verstappen es un poco menor a la de hamilton, al igual que en el anterior, hamilton en general es mas centrado en sus tiempos.
 En esta carrera, Hamilton clasifico primero y verstappen tercero. 
-Observando la siguiente tabla, podemos analizar la carrera
+Observando los tiempos por vuelta de ambos corredores en la siguiente tabla podemos hacer un analisis mayor:
 
 https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C41:L9
  
@@ -114,9 +111,8 @@ Analizando el siguiente boxplot:
 
 Podemos ver que de nuevo, hamilton tiene menores tiempo por vuelta promedio aunque esta vez mayor amplitud que verstappen. 
 
-Hamilton clasifica sexto y verstappen primero.
-Analizando la siguiente tabla podemos analizar que sucedio en la carrera
-
+Hamilton clasifico sexto y verstappen primero.
+Observando los tiempos por vuelta de ambos corredores en la siguiente tabla podemos hacer un analisis mayor:
 https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C41:L9
 
 En este caso existe mayor diferencia en cuanto a los set-up de los autos donde Hamilton claramente aposto a tener un auto mas preparado para la carrera, teniendo claramente un tiempo medio de vuelta inferior al de Verstappen.
@@ -125,14 +121,20 @@ Durante este stint, hamilton, debido a tener que pasar autos, desgasto sus rueda
 Hamilton decide parar en la vuelta 26 y Verstappen para en la siguiente. En este segundo Stint, ambos con ruedas frescas, Verstappen en primer puesto y Hamilton segundo, ambos giran en tiempos muy similares. En la vuelta 38 Hamilton lo pasa a verstappen y este decide parar a cambiar neumáticos la vuelta siguiente y podemos entender que Verstappen para mantener el ritmo de Hamilton se vio obligado a desgastar sus ruedas ampliamente ya que tuvo que cambiarlas luego de usarlas solo 10 vueltas. Hamilton decide parar en la vuelta 43, habiendo hecho 17 vueltas con ese juego de neumáticos.
 En el ultimo Stint Hamilton se encontraba segundo, ambos pilotos girando en tiempos muy similares. Pero Hamilton con tiempos marginalmente inferiores, acercándose a verstappen vuelta a vuelta y pasandolo en la vuelta numero 58. Una vez que lo paso Hamilton mejoro sus tiempos anteriores y Verstappen se desplomo, teniendo hacia el final un segundo de diferencia por vuelta. Mostrando claramente el desgaste en el que incurrió Verstappen para mantener los tiempos al ritmo Hamilton.
 
-
-
-
-
 Abu Dhabi
+A partir del boxplot: 
+
+![image](https://github.com/stefanods4/SAT-F1/assets/153237227/bce93203-b47e-4991-96e8-718a233bb17a)
+
+Podemos ver que Hamilton tiene una media menor que Verstappen y con una amplitud significativamente menor a Verstappen.
+
 Al llegar a la carrera final, ambos corredores estaban empatados en los puntos, en el primer puesto ambos. Por lo que quien termine adelante en esta carrera sería el campeón mundial. 
-Se puede observar en el boxplot, que hamilton fue más consistente y mantuvo un menor tiempo de vuelta promedio.
 clasifico primero Verstappen y segundo hamilton.
+Observando los tiempos por vuelta de ambos corredores en la siguiente tabla podemos hacer un analisis mayor:
+![image](https://github.com/stefanods4/SAT-F1/assets/153237227/694b2505-5921-4952-9a2f-974d426eb5bb)
+
+
+
 Hamilton lo paso a Verstappen en la primera vuelta y mantuvo durante todo el primer stint tiempos marginalmente menores a verstappen, similar a lo ocurrido en México, solo que esta vez al revés. 
 Verstappen decide parar y cambiar neumáticos en la vuelta 13, mientras que Hamilton lo hace en la 14. Y en el segundo stint se repite lo mismo donde hamilton se alejaba lentamente de Verstappen y con el las chances de salir campeón para este ultimo piloto. 
 En la vuelta 35 ambos pilotos vuelven a cambiar para realizar, según ellos creían, el stint final. Donde Verstappen esta vez logro hacer mejores tiempos que Hamilton pero no lo suficientemente bajos como para alcanzarlo.
