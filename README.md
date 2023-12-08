@@ -145,7 +145,7 @@ En este momento, los directores de carrera deciden que la misma debe terminarse 
 En este escenario, Hamilton con ruedas de 20 vueltas, no podía competir contra Verstappen, quien lo paso y se terminó consagrando como Campeón mundial
 
 
-###Conclusion
+### Conclusion
 
 Durante todo el analisis pudimos observar el alto nivel de variabilidad que existe en este deporte, muchas variables a controlar, muchas que no se pueden controlar y pueden ocasionar perder tiempo, vueltas, una carrera o hasta incluso un campeonato.
 Como demostramos, constantemente los equipos y corredores de F1 buscan el equilibrio optimo entre el mejor tiempo de clasificacion  y el mejor ritmo de carrera. Un muy buen tiempo de clasificacion puede condenar una carrera como sucedio para Hamilton en Mexico y para Verstappen en Brasil. Tambien un tiempo medio en la clasificacion, puede permitir tener un auto mas eficaz con un ritmo de carrera que arrolle con los competidores. Y ademas demostramos como las variables que no se pueden controlar, terminan arruinando una carrera que hasta el momento habia sido excelente para Hamilton, ocasionando que pierda el campeonato. 
