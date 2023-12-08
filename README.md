@@ -131,9 +131,8 @@ Podemos ver que Hamilton tiene una media menor que Verstappen y con una amplitud
 Al llegar a la carrera final, ambos corredores estaban empatados en los puntos, en el primer puesto ambos. Por lo que quien termine adelante en esta carrera sería el campeón mundial. 
 clasifico primero Verstappen y segundo hamilton.
 Observando los tiempos por vuelta de ambos corredores en la siguiente tabla podemos hacer un analisis mayor:
-![image](https://github.com/stefanods4/SAT-F1/assets/153237227/694b2505-5921-4952-9a2f-974d426eb5bb)
 
-
+https://vscode.dev/github/juzimbimbakis/sat-python-oct-23/blob/clase3/F1/F1%20(1).ipynb#C44:L13
 
 Hamilton lo paso a Verstappen en la primera vuelta y mantuvo durante todo el primer stint tiempos marginalmente menores a verstappen, similar a lo ocurrido en México, solo que esta vez al revés. 
 Verstappen decide parar y cambiar neumáticos en la vuelta 13, mientras que Hamilton lo hace en la 14. Y en el segundo stint se repite lo mismo donde hamilton se alejaba lentamente de Verstappen y con el las chances de salir campeón para este ultimo piloto. 
@@ -146,3 +145,8 @@ En este momento, los directores de carrera deciden que la misma debe terminarse 
 En este escenario, Hamilton con ruedas de 20 vueltas, no podía competir contra Verstappen, quien lo paso y se terminó consagrando como Campeón mundial
 
 
+###Conclusion
+
+Durante todo el analisis pudimos observar el alto nivel de variabilidad que existe en este deporte, muchas variables a controlar, muchas que no se pueden controlar y pueden ocasionar perder tiempo, vueltas, una carrera o hasta incluso un campeonato.
+Como demostramos, constantemente los equipos y corredores de F1 buscan el equilibrio optimo entre el mejor tiempo de clasificacion  y el mejor ritmo de carrera. Un muy buen tiempo de clasificacion puede condenar una carrera como sucedio para Hamilton en Mexico y para Verstappen en Brasil. Tambien un tiempo medio en la clasificacion, puede permitir tener un auto mas eficaz con un ritmo de carrera que arrolle con los competidores. Y ademas demostramos como las variables que no se pueden controlar, terminan arruinando una carrera que hasta el momento habia sido excelente para Hamilton, ocasionando que pierda el campeonato. 
+Pudimos ver como en un torno tan competitivo y tecnologico, no existe otro deporte en el mundo donde se invierta en tecnologia como en este, esto ocasiona una gran mezcla entre lo matematico con el azar del deporte. Y los equipos deben trabajar con esto, buscando aumentar las probabilidades de ganar en un deporte lleno de incertidumbres.
