@@ -40,7 +40,8 @@ En este, no se encuentran grandes diferencias, ambos pilotos pelearon el primer 
 
 Siguiendo, decidimos hacer una comparacion que nos parecio de vital importancia: la posicion de clasificacion vs la posicion final de carrera.
 
-![image](https://github.com/stefanods4/SAT-F1/assets/153237227/e8643ab5-e92d-4d8e-b04c-e84c615bea60
+![image](https://github.com/stefanods4/SAT-F1/assets/153237227/231e941a-81d0-454c-abd0-b45a5d2f9c7b)
+
 
 Este analisis decidimos hacerlo debido a lo siguiente. La Formula 1 es la categoria mas competitiva del deporte automotor, es donde mas dinero si invierte en tecnologia y utilizan los autos mas rapidos del mundo. Estos autos se configuran carrera a carrera de manera diferente. Para lograr plasmar las ventajas del auto, en cada circuito particular.
 A rasgos generales un auto que es capaz de clasificar mejor, es decir dar una vuelta a mayor velocidad desgastara mas las ruedas y por lo tanto no tendra tan buen ritmo de carrera, esto es 
